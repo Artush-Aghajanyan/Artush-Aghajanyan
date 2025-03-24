@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 
-* 🧐 FrontEnd-Developer
+* FrontEnd-Developer
 * <details>
   <summary>🔧 Стек технологий</summary>
   - HTML (HTML5), JSX
