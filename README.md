@@ -5,16 +5,14 @@
 * <details>
   <summary>🔧 Стек технологий</summary>
   - HTML (HTML5), JSX
-  - CSS (CSS3), Sass (SCSS), PostCSS, Tailwind, Animations, MUI
-  - JavaScript (ES6+, OOP), TypeScript
+  - CSS (CSS3), Sass (SCSS), AntDesign
+  - JavaScript (ES6+, OOP)
   - React
-  - Redux Toolkit, Zustand
-  -  React Hook Form, Axios, React Router, React Query
+  - Axios, React Router,
   - Webpack, Vite, Gulp
-  - Jest, React Testing Library, Vitest
-  - REST API, WebSockets, Long Polling
+  - REST API, WebSockets
   - BEM, Accessibility, UX,
-  - Git, GitHub, GitLab
-  - Figma, Avocode
-  - Trello, Jira, Notion
+  - Git, GitHub
+  - Figma
+  - Trello
   </details>
